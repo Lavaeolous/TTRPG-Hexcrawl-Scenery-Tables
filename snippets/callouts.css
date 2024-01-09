@@ -1,0 +1,65 @@
+/*
+ * TTRPG Scenery Descriptions - Obsidian Call-Outs
+ */
+
+.callout.callout.callout[data-callout="plains"] {
+   --callout-icon: plane;
+   --callout-color: 255, 212, 94;
+}
+
+.callout.callout.callout[data-callout="plains-river"] {
+   --callout-icon: waves;
+   --callout-color: 255, 212, 94;
+}
+
+.callout.callout.callout[data-callout="hills"] {
+   --callout-icon: cloud;
+   --callout-color: 156, 114, 30;
+}
+
+.callout.callout.callout[data-callout="hills-river"] {
+   --callout-icon: waves;
+   --callout-color: 156, 114, 30;
+}
+
+.callout.callout.callout[data-callout="forest"] {
+   --callout-icon: trees;
+   --callout-color: 53, 107, 21;
+}
+
+.callout.callout.callout[data-callout="forest-river"] {
+   --callout-icon: waves;
+   --callout-color: 53, 107, 21;
+}
+
+.callout.callout.callout[data-callout="mountains"] {
+   --callout-icon: mountain;
+   --callout-color: 112, 112, 112;
+}
+
+.callout.callout.callout[data-callout="mountains-river"] {
+   --callout-icon: waves;
+   --callout-color: 112, 112, 112;
+}
+
+.callout.callout.callout[data-callout="swamp"] {
+   --callout-icon: swiss-franc;
+   --callout-color: 87, 133, 68;
+}
+
+.callout.callout.callout[data-callout="swamp-river"] {
+   --callout-icon: waves;
+   --callout-color: 87, 133, 68;
+}
+
+.callout.callout.callout[data-callout="lake"] {
+   --callout-icon: fish;
+   --callout-color: 28, 107, 255;
+}
+
+.callout.callout.callout[data-callout="lake-river"] {
+   --callout-icon: waves;
+   --callout-color: 28, 107, 255;
+}
+
+/* https://lucide.dev */
